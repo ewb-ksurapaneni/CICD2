@@ -1,0 +1,46 @@
+{
+  "Solutions": [
+    {
+      "SolutionName": "CRMSVCWebResources",
+      "Managed": true,
+      "TargetVersion": 2.0.0.0,
+      "ExportAutoNumberingSettings": false,
+      "ExportCalendarSettings": false,
+      "ExportCustomizationSettings": false,
+      "ExportEmailTrackingSettings": false,
+      "ExportExternalApplications": false,
+      "ExportGeneralSettings": false,
+      "ExportIsvConfig": false,
+      "ExportMarketingSettings": false,
+      "ExportOutlookSynchronizationSettings": false,
+      "ExportRelationshipRoles": false,
+      "ExportSales": false,
+      "IncludeVersionInName": true,
+      "ExportAsync": false,
+      "ApplyAsync": true,
+      "SleepInterval": 15,
+      "AsyncWaitTimeout": 900
+    },
+    {
+      "SolutionName": "CRMSVCEntitySchema",
+      "Managed": true,
+      "TargetVersion": 3.0.0.0,
+      "ExportAutoNumberingSettings": false,
+      "ExportCalendarSettings": false,
+      "ExportCustomizationSettings": false,
+      "ExportEmailTrackingSettings": false,
+      "ExportExternalApplications": false,
+      "ExportGeneralSettings": false,
+      "ExportIsvConfig": false,
+      "ExportMarketingSettings": false,
+      "ExportOutlookSynchronizationSettings": false,
+      "ExportRelationshipRoles": false,
+      "ExportSales": false,
+      "IncludeVersionInName": true,
+      "ExportAsync": true,
+      "ApplyAsync": true,
+      "SleepInterval": 15,
+      "AsyncWaitTimeout": 900
+    }
+  ]
+}
