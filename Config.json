@@ -1,7 +1,7 @@
 {
   "Solutions": [
     {
-      "SolutionName": "CRMSVCWebResources",
+      "SolutionName": "KiranCRMSVCWebResources",
       "Managed": false,
       "TargetVersion": null,
       "ExportAutoNumberingSettings": false,
@@ -22,7 +22,7 @@
       "AsyncWaitTimeout": 900
     },
     {
-      "SolutionName": "CRMSVCEntitySchema",
+      "SolutionName": "KiranCRMSVCEntitySchema",
       "Managed": false,
       "TargetVersion": null,
       "ExportAutoNumberingSettings": false,

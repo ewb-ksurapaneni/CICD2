@@ -1,7 +1,7 @@
 {
   "Solutions": [
     {
-      "SolutionFilePath": "CRMSVCWebResources.zip",
+      "SolutionFilePath": "CRMSVCWebResources_1_0_0_0.zip",
       "PublishWorkflows": true,
       "ConvertToManaged": false,
       "OverwriteUnmanagedCustomizations": true,
@@ -15,7 +15,7 @@
       "AsyncWaitTimeout": 900
     },
     {
-      "SolutionFilePath": "CRMSVCEntitySchema.zip",
+      "SolutionFilePath": "CRMSVCEntitySchema_1_0_0_0.zip",
       "PublishWorkflows": true,
       "ConvertToManaged": false,
       "OverwriteUnmanagedCustomizations": true,
