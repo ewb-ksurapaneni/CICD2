@@ -1,0 +1,32 @@
+{
+  "Solutions": [
+    {
+      "SolutionFilePath": "CRMSVCWebResources_1_0_0_0.zip",
+      "PublishWorkflows": true,
+      "ConvertToManaged": false,
+      "OverwriteUnmanagedCustomizations": true,
+      "SkipProductUpdateDependencies": false,
+      "HoldingSolution": false,
+      "OverrideSameVersion": true,
+      "ImportAsync": true,
+      "ApplySolution": false,
+      "ApplyAsync": false,
+      "SleepInterval": 15,
+      "AsyncWaitTimeout": 900
+    },
+    {
+      "SolutionFilePath": "CRMSVCEntitySchema_1_0_0_0.zip",
+      "PublishWorkflows": true,
+      "ConvertToManaged": false,
+      "OverwriteUnmanagedCustomizations": true,
+      "SkipProductUpdateDependencies": false,
+      "HoldingSolution": true,
+      "OverrideSameVersion": false,
+      "ImportAsync": true,
+      "ApplySolution": true,
+      "ApplyAsync": true,
+      "SleepInterval": 15,
+      "AsyncWaitTimeout": 900
+    }
+  ]
+}
