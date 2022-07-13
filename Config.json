@@ -2,7 +2,7 @@
   "Solutions": [
     {
       "SolutionName": "CRMSVCWebResources",
-      "Managed": true,
+      "Managed": false,
       "TargetVersion": null,
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
@@ -23,7 +23,7 @@
     },
     {
       "SolutionName": "CRMSVCEntitySchema",
-      "Managed": true,
+      "Managed": false,
       "TargetVersion": null,
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
