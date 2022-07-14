@@ -3,7 +3,7 @@
     {
       "SolutionName": "KiranCRMSVCWebResources",
       "Managed": true,
-      "TargetVersion": "2.0.0.0",
+      "TargetVersion": null,
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
       "ExportCustomizationSettings": false,
@@ -24,7 +24,7 @@
     {
       "SolutionName": "KiranCRMSVCEntitySchema",
       "Managed": true,
-      "TargetVersion": "2.0.0.0",
+      "TargetVersion": null,
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
       "ExportCustomizationSettings": false,
