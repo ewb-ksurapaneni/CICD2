@@ -2,8 +2,8 @@
   "Solutions": [
     {
       "SolutionName": "KiranCRMSVCWebResources",
-      "Managed": false,
-      "TargetVersion": null,
+      "Managed": true,
+      "TargetVersion": "2.0.0.0",
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
       "ExportCustomizationSettings": false,
@@ -23,8 +23,8 @@
     },
     {
       "SolutionName": "KiranCRMSVCEntitySchema",
-      "Managed": false,
-      "TargetVersion": null,
+      "Managed": true,
+      "TargetVersion": "2.0.0.0",
       "ExportAutoNumberingSettings": false,
       "ExportCalendarSettings": false,
       "ExportCustomizationSettings": false,
