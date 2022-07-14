@@ -1,7 +1,7 @@
 {
   "Solutions": [
     {
-      "SolutionFilePath": "KiranCRMSVCWebResources.zip",
+      "SolutionFilePath": "KiranCRMSVCWebResources_managed.zip",
       "PublishWorkflows": true,
       "ConvertToManaged": false,
       "OverwriteUnmanagedCustomizations": true,
@@ -15,7 +15,7 @@
       "AsyncWaitTimeout": 900
     },
     {
-      "SolutionFilePath": "KiranCRMSVCEntitySchema.zip",
+      "SolutionFilePath": "KiranCRMSVCEntitySchema_managed.zip",
       "PublishWorkflows": true,
       "ConvertToManaged": false,
       "OverwriteUnmanagedCustomizations": true,
